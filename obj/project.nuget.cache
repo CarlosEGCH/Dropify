@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "AePxlmOIlbUmz9K+mKIP1VW3t3X+tT/uDko5nZDF2pNfwnhuDyUT32f/OH/EGniRKJw/7Ds9d507NwRIcvqeyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Carlo\\OneDrive\\Documentos\\Dropify\\Repo\\Dropify\\DropifyTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlo\\.nuget\\packages\\anglesharp\\1.0.4\\anglesharp.1.0.4.nupkg.sha512",
+    "C:\\Users\\Carlo\\.nuget\\packages\\cliwrap\\3.6.4\\cliwrap.3.6.4.nupkg.sha512",
+    "C:\\Users\\Carlo\\.nuget\\packages\\google.apis\\1.61.0\\google.apis.1.61.0.nupkg.sha512",
+    "C:\\Users\\Carlo\\.nuget\\packages\\google.apis.auth\\1.61.0\\google.apis.auth.1.61.0.nupkg.sha512",
+    "C:\\Users\\Carlo\\.nuget\\packages\\google.apis.core\\1.61.0\\google.apis.core.1.61.0.nupkg.sha512",
+    "C:\\Users\\Carlo\\.nuget\\packages\\google.apis.youtube.v3\\1.61.0.3113\\google.apis.youtube.v3.1.61.0.3113.nupkg.sha512",
+    "C:\\Users\\Carlo\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Carlo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Carlo\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\Carlo\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",
+    "C:\\Users\\Carlo\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Carlo\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\Carlo\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Carlo\\.nuget\\packages\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512",
+    "C:\\Users\\Carlo\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Carlo\\.nuget\\packages\\youtubeexplode\\6.3.1\\youtubeexplode.6.3.1.nupkg.sha512",
+    "C:\\Users\\Carlo\\.nuget\\packages\\youtubeexplode.converter\\6.3.1\\youtubeexplode.converter.6.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
