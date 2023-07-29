@@ -12,6 +12,8 @@ obj/
 
 /App.config
 
-/music
+/music/*
+
+# After changes in gitignore
 
 # End of https://www.toptal.com/developers/gitignore/api/dotnetcore
